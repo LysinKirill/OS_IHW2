@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "signal.h": "c",
-        "types.h": "c",
-        "unistd.h": "c",
-        "stdio.h": "c",
-        "sem.h": "c"
-    }
-}
