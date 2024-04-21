@@ -1,0 +1,5 @@
+Reader read at index 8, value: 8, Fibonacci: 21
+Reader read at index 2, value: 12, Fibonacci: 144
+Reader read at index 1, value: 11, Fibonacci: 89
+Reader read at index 4, value: 4, Fibonacci: 3
+Received signal 2. Terminating program...
